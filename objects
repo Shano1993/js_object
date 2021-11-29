@@ -1,0 +1,15 @@
+// Objet String
+
+1 --> includes()
+2 --> startWhit()
+3 --> endWith()
+4 --> substring()
+5 --> substr()
+6 --> indexOf()
+7 --> lastIndexOf()
+8 --> slice()
+9 --> replace()
+10 --> toLowerCase()
+11 --> toUpperCase()
+12 --> trim()
+13 --> split()
